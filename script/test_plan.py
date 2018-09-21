@@ -6,4 +6,4 @@ class Testplan:
         assert 1
 
     def test03(self):
-        assert 1
+        assert 0
